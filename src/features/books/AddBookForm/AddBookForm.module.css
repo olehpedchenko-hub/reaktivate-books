@@ -1,0 +1,12 @@
+.form {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  max-width: 24rem;
+}
+
+.actions {
+  display: flex;
+  gap: 0.5rem;
+}

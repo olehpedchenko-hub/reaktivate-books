@@ -1,0 +1,22 @@
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin-bottom: 0.75rem;
+}
+
+.label {
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.input {
+  padding: 0.5rem;
+  border: 1px solid #999;
+  border-radius: 4px;
+}
+
+.error {
+  color: #b00020;
+  font-size: 0.8125rem;
+}

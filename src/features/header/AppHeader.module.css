@@ -1,0 +1,12 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  padding: 0.75rem 1rem;
+  background: #1a1a1a;
+  color: #fff;
+}
+
+.counter {
+  font-weight: 600;
+}
